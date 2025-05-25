@@ -9,6 +9,7 @@
 │   ├── Bitbucket подмножество Markdown.md
 │   ├── GitHub подмножество Markdown.md
 │   ├── GitLab подмножество Markdown.md
+│   ├── TeaGit подмножество Markdown.md
 │   └── Универсальный и безопасное подмножество Markdown.md
 └── README.md
 ```
